@@ -1,0 +1,25 @@
+SHA256 BC9D2AB8B9D362B36FE206B4804CC81EC43A5E192C67BF2BD139F7C9E8EB4C27 
+SHA1 4CF7967027CD2224BB7488224DAC9764C5AE9C22 
+MD5 9EC681923D6B48D70738C8313D776346
+
+Comments	BaseConfigHandler
+CompanyName	
+FileDescription	BaseConfigHandler
+FileVersion	88.2.12.1
+InternalName	ExceptionHandler.exe
+LegalCopyright	Copyright © 2017 Tesla
+LegalTrademarks	
+OriginalFilename	ExceptionHandler.exe
+ProductName	BaseConfigHandler
+ProductVersion	88.2.12.1
+Assembly Version	88.2.12.1
+
+
+FileVersion	88.2.12.1
+ProductVersion	88.2.12.1
+StrucVersion	0x10000
+FileFlagsMask	0x3f
+FileFlags	0
+FileOS	4
+FileType	1
+FileSubtype
